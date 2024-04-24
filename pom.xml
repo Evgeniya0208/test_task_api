@@ -47,11 +47,10 @@
     </dependency>
 
     <dependency>
-      <groupId>org.json</groupId>
-      <artifactId>json</artifactId>
-      <version>20240303</version>
+      <groupId>com.github.javafaker</groupId>
+      <artifactId>javafaker</artifactId>
+      <version>0.15</version>
     </dependency>
-
 
   </dependencies>
   <build>
